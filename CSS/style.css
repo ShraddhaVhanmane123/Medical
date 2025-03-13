@@ -43,7 +43,7 @@ html,body{
 }
 
 .contact{
-    background-image: url('./images/pexels-pixabay-356040.jpg');
+    background-image: url('../images/pexels-pixabay-356040.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
