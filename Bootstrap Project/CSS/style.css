@@ -1,0 +1,62 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#navbarNav{
+    color: black;
+}
+
+.doctor_carousel h5 p{
+    text-align: left;
+}
+
+.logos img:hover{
+    clip-path: circle();
+    background-color: rgb(0, 17, 255);
+}
+
+#Happy img:hover{
+    clip-path: circle(50%);
+    background-color: blue;
+}
+#Happy h3{
+    margin-top: 10%;
+    padding-top: 10%;
+}
+
+#Happy h3{
+    color: white;
+}
+
+#Happy h6{
+    color: black;
+}
+
+.contact{
+    background-image: url('./images/pexels-pixabay-356040.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    height: 100%;
+    margin-left: 5%;
+}
+
+.pfimages img:hover{
+    opacity: 50%;
+}
+
+.footer{
+    background-color: rgb(88, 88, 224);
+}
+
+
